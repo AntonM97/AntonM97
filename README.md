@@ -1,6 +1,13 @@
 # Anton Matsibora 
 ## Java developer
-
+Java
+Spring Boot, Spring JDBC, Spring Data JPA, Spring MVC, Spring testing
+Jdbc, Hibernate, JPA
+JUnit 5, Mockito, AssertJ
+Thymeleaf, Bootstrap, CSS, HTML
+Maven, Git, GitHub, GitLab
+Docker
+REST
 <!--
 **AntonM97/AntonM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
